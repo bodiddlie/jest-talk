@@ -8,7 +8,7 @@ export class LoremList extends Component {
     render() {
         let lorems = [];
         for (let i = 0; i < this.props.paragraphCount; i++) {
-            lorems.push(<LoremItem/>);
+            lorems.push(<LoremItem key={i} />);
         }
         return (
             <div>

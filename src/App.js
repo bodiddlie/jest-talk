@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 
-import {LoremList} from './lore-list';
+import {LoremList} from './lorem-list';
 
 class App extends Component {
   render() {

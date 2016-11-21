@@ -1,0 +1,51 @@
+exports[`<LoremList /> - Snapshot renders the given number of items in a snapshot 1`] = `
+<div>
+  <div>
+    <div>
+      <h3>
+        Item #
+        1
+      </h3>
+      <p>
+        Here is some text.
+      </p>
+    </div>
+    <div>
+      <h3>
+        Item #
+        2
+      </h3>
+      <p>
+        Here is some text.
+      </p>
+    </div>
+    <div>
+      <h3>
+        Item #
+        3
+      </h3>
+      <p>
+        Here is some text.
+      </p>
+    </div>
+    <div>
+      <h3>
+        Item #
+        4
+      </h3>
+      <p>
+        Here is some text.
+      </p>
+    </div>
+    <div>
+      <h3>
+        Item #
+        5
+      </h3>
+      <p>
+        Here is some text.
+      </p>
+    </div>
+  </div>
+</div>
+`;

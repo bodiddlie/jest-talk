@@ -1,0 +1,12 @@
+exports[`Snapshot Action Creators creates an action one type 1`] = `
+Object {
+  "type": "ACTION_ONE",
+}
+`;
+
+exports[`Snapshot Action Creators creates an action two type 1`] = `
+Object {
+  "id": 1,
+  "type": "ACTION_TWO",
+}
+`;

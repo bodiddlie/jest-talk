@@ -6,7 +6,12 @@ exports[`<LoremList /> - Snapshot renders the given number of items in a snapsho
         Item #
         1
       </h3>
-      <p>
+      <p
+        style={
+          Object {
+            "backgroundColor": "PapayaWhip",
+          }
+        }>
         Here is some text.
       </p>
     </div>
@@ -15,7 +20,12 @@ exports[`<LoremList /> - Snapshot renders the given number of items in a snapsho
         Item #
         2
       </h3>
-      <p>
+      <p
+        style={
+          Object {
+            "backgroundColor": "Orchid",
+          }
+        }>
         Here is some text.
       </p>
     </div>
@@ -24,7 +34,12 @@ exports[`<LoremList /> - Snapshot renders the given number of items in a snapsho
         Item #
         3
       </h3>
-      <p>
+      <p
+        style={
+          Object {
+            "backgroundColor": "DodgerBlue",
+          }
+        }>
         Here is some text.
       </p>
     </div>
@@ -33,7 +48,12 @@ exports[`<LoremList /> - Snapshot renders the given number of items in a snapsho
         Item #
         4
       </h3>
-      <p>
+      <p
+        style={
+          Object {
+            "backgroundColor": "FireBrick",
+          }
+        }>
         Here is some text.
       </p>
     </div>
@@ -42,7 +62,12 @@ exports[`<LoremList /> - Snapshot renders the given number of items in a snapsho
         Item #
         5
       </h3>
-      <p>
+      <p
+        style={
+          Object {
+            "backgroundColor": "Goldenrod",
+          }
+        }>
         Here is some text.
       </p>
     </div>

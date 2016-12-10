@@ -12,7 +12,7 @@ exports[`<LoremList /> - Snapshot renders the given number of items in a snapsho
             "backgroundColor": "PapayaWhip",
           }
         }>
-        Here is some text.
+        Lorem ipsum dolar sit amet.
       </p>
     </div>
     <div>
@@ -26,7 +26,7 @@ exports[`<LoremList /> - Snapshot renders the given number of items in a snapsho
             "backgroundColor": "Orchid",
           }
         }>
-        Here is some text.
+        Lorem ipsum dolar sit amet.
       </p>
     </div>
     <div>
@@ -40,7 +40,7 @@ exports[`<LoremList /> - Snapshot renders the given number of items in a snapsho
             "backgroundColor": "DodgerBlue",
           }
         }>
-        Here is some text.
+        Lorem ipsum dolar sit amet.
       </p>
     </div>
     <div>
@@ -54,7 +54,7 @@ exports[`<LoremList /> - Snapshot renders the given number of items in a snapsho
             "backgroundColor": "FireBrick",
           }
         }>
-        Here is some text.
+        Lorem ipsum dolar sit amet.
       </p>
     </div>
     <div>
@@ -68,7 +68,7 @@ exports[`<LoremList /> - Snapshot renders the given number of items in a snapsho
             "backgroundColor": "Goldenrod",
           }
         }>
-        Here is some text.
+        Lorem ipsum dolar sit amet.
       </p>
     </div>
   </div>

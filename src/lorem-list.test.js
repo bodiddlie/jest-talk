@@ -3,7 +3,7 @@ import {shallow} from 'enzyme';
 
 import {LoremList, LoremItem} from './lorem-list';
 
-describe('<LoremList />', () => {
+xdescribe('<LoremList />', () => {
   test('renders the given number of items', () => {
     const wrapper = shallow(<LoremList paragraphCount={5} />);
     const items = wrapper.find(LoremItem);
